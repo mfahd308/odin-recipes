@@ -2,11 +2,14 @@ h1 {
     color: black;
     text-align: center;
     font-family: fantasy;
-    background-color: antiquewhite;
 }
 
-li {
+h2 {
     font-family: fantasy;
+}
+
+li,p {
+    font-family: cursive;
 
 }
 
@@ -14,6 +17,13 @@ body {
     background-color: antiquewhite;
 }
 
-img {
-    
+div {
+   text-align: center; 
+   
 }
+
+.add-border {
+    border: 5px solid black;
+    border-radius: 30px;
+}
+
